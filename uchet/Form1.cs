@@ -20,7 +20,7 @@ namespace uchet
 
         private void button1_Click(object sender, EventArgs e)
         {
-            tb1.Text = "Hello,Niggers!";
+            tb1.Text = "Hello,Whites!";
             
 
         }
